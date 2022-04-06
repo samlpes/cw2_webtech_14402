@@ -27,5 +27,21 @@ You can easily access all dependencies from `package.json` but surely I will men
 ## Lins and stuff
 
 Here is a link to my [Github Repo](https://github.com/samlpes/cw2_webtech_14402.git)
-Here is a link to my [Glitch]()
+</br>
+Here is a link to my [Glitch](https://glitch.com/edit/#!/daffodil-lava-reindeer?path=README.md%3A1%3A0)
 
+## Instructions on how to use the app on [Glitch](https://glitch.com/edit/#!/daffodil-lava-reindeer?path=README.md%3A1%3A0)
+- click the [link](https://glitch.com/edit/#!/daffodil-lava-reindeer?path=README.md%3A1%3A0)
+- press `Terminal` on botton panel
+- type in commands that are shown above
+
+## Apologies and appreciations
+I apologize for submitting late and not developing web UI for users. My main goal was to make a simple note application and undestand principles that stand behind every note-taking app. 
+</br>
+With a deep sense of gratitude to WebTech classes and our tutor, I have learnt what kind of protocols work behind these kind of applications.
+</br>
+Thank you for checking my work and rating it. I am eagerly looking forward to get enough marks for a `pass`. Since this semester was extremely depressive and upsetting, I am desperate to beg for a `pass`.
+</br>
+</br>
+Yours sincerely, </br>
+Student #14402
