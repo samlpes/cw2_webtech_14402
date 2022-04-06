@@ -18,11 +18,14 @@
 - `read` command must be used with 1 argument `--title`. Example: `node app.js read --title "Hello World"`
 
 ## Dependencies
+You can easily access all dependencies from `package.json` but surely I will mention them here in README as well:
+</br>
 `"express": "^4.17.3"`
 </br>
 `"yargs": "^12.0.5"`
 
 ## Lins and stuff
 
-Here is a link to my [work](https://github.com/samlpes/cw2_webtech_14402.git)
+Here is a link to my [Github Repo](https://github.com/samlpes/cw2_webtech_14402.git)
+Here is a link to my [Glitch]()
 
