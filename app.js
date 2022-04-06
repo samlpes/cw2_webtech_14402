@@ -1,8 +1,12 @@
 console.log("Starting app.js");
-
+const express = require('express')
 const yargs = require('yargs');
 const notes = require('./notes.js');
 const argv = yargs.argv;
+
+const app = express()
+const path = require('path');
+const { dirname } = require('path');
 
 var title = yargs.argv.title;
 var body = yargs.argv.body;
@@ -23,3 +27,6 @@ if (command === "add") {
 } else {
   console.log("Unknown command was used!");
 }
+app.use((req, res, next) => {
+  res.sendFile(path.join(__dirname, 'views', 'index.html'))
+})
